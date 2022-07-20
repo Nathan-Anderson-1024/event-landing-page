@@ -9,6 +9,15 @@
     height: 25vh;
 }
 
+.twitter, .insta, .facebook {
+    margin-right: 0.5rem;
+}
+.twitter {
+    margin-left: 2rem;
+}
+.footer-cr {
+    margin-right: 2rem;
+}
 /* Media query for small screens */
 @media only screen and (min-width: 300px) and (max-width: 500px) {
     .the-venue {
