@@ -8,3 +8,16 @@
 .map {
     height: 25vh;
 }
+
+/* Media query for small screens */
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+    .the-venue {
+        margin-bottom: 1rem;
+        
+    }
+}
+@media only screen and (min-width: 800px) and (max-width: 1024px) {
+    .venue-row {
+        width: 100% !important;
+    }
+}
