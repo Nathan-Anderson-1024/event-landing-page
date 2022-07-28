@@ -1,14 +1,15 @@
-# bootstrap-boilerplate
-## Daily Challenge for Mobile Friendly Websites Day 3
-This repository is home to my bootstrap boilerplate. This provides a template for future projects.
+# Event Landing Page
+## About
+This repo is a remake of an event landing page from moqups.
+Here is the moqup:
+![event-landing-page-wireframe](https://user-images.githubusercontent.com/73272904/181603596-008b3a31-266b-42f6-9f1f-e707d431408e.jpg)
 
-This project is useful to save time so I don't have to remake this boilerplate for every project. 
 
 ### Getting started
-Fork this repo to make it your own and edit the boilerplate as you please. 
+View the finished site [here]().
 
 ### Contributors
 I am the sole contributor.
 
 ### Questions?
-All questions should be directed to Google.com
+All questions should be directed to nathan.anderson.1024@gmail.com
