@@ -7,7 +7,7 @@ Here is the moqup:
 
 
 ### Getting started
-View the finished site [here]().
+View the finished site [here](https://nathan-anderson-1024.github.io/event-landing-page/).
 
 ### Contributors
 I am the sole contributor.
